@@ -8,6 +8,15 @@ Guide to current projects and repos:
 
 Link: https://github.com/neonwuchang/my_chibi_portscanner
 
+## Drone Lab Management System
+- Made for CSUEB (CAlifornia State University East Bay) with senior dev
+- Automates student registration:
+  - Once signed up, students complete knowledge test
+  - When they pass it, send them Agreements to be signed as required by lab
+  - Once signed, their details are added to roster and a notification is sent to lab manager
+- Uses GCP, Google Sheets API, Adobe Sign API
+- Code is private
+
 ## Mandarin Practice Tool for Beginners
 - MVP: Simple website to practice Mandarin for beginners
 - Flippable flashcards to learn and recognise characters
