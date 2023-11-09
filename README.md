@@ -1,4 +1,4 @@
-# PersonalPage
+# Personal Project Intro Page
 Guide to current projects and repos:
 
 ## My Chibi Portscanner:
@@ -15,3 +15,15 @@ Link: https://github.com/neonwuchang/my_chibi_portscanner
 - Practice Quizzes
 
 Link: https://github.com/neonwuchang/PracticeMandarin/tree/main
+
+## C++ Minesweeper
+- MVP
+- Flags enabled
+
+Link: https://github.com/neonwuchang/Minesweeper
+
+## Unbeatable Tic Tac Toe
+- Human v/s computer
+- Uses Minimax algorithm to make Computer unbeatable (wins or draws only)
+
+Link: https://github.com/neonwuchang/unbeatable_tictactoe
