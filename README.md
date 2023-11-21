@@ -8,6 +8,13 @@ Guide to current projects and repos:
 
 Link: https://github.com/neonwuchang/my_chibi_portscanner
 
+## SImulated Incidents Reports_Archive
+- Project contains incident reports based on three separate security incident simulations
+- Scenarios and data used sourced from the Google Cybersecurity Professional Certificate
+- Scope of each report reflects its specific simulated background scenario.
+
+Link: https://github.com/neonwuchang/SimSecIncident__Reports_Archive
+
 ## Drone Lab Management System
 - Made for CSUEB (CAlifornia State University East Bay) with senior dev
 - Automates student registration:
