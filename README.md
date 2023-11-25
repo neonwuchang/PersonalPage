@@ -1,14 +1,21 @@
 # Personal Project Intro Page
 Guide to current projects and repos:
 
+
+## Capture the Flag Challenge Collection
+- This is an ongoing project
+- Documenting the process of capturing flags from various challenges
+
+Link: https://github.com/neonwuchang/Flags-de-Triomphe
+  
 ## Port Scanner tool
 - A basic recon tool used for scanning ports on networks (can be used for attack or defense). 
-- Made using scapy in python, with a simple driver function for demo. 
+- Made using scapy in Python, with a simple driver function for demo. 
 - Scan 200 most common ports (list from nmap) or scan custom ports
 
 Link: https://github.com/neonwuchang/my_chibi_portscanner
 
-## SImulated Incidents Reports_Archive
+## Simulated Incidents - Reports Archive
 - Project contains incident reports based on three separate security incident simulations
 - Scenarios and data used sourced from the Google Cybersecurity Professional Certificate
 - Scope of each report reflects its specific simulated background scenario.
