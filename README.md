@@ -5,7 +5,7 @@ Guide to current projects and repos:
 ## Capture the Flag Challenge Collection
 - This is an ongoing project
 - Documenting the process of capturing flags from various challenges
-- Challenges cover several domains eg cryptography, web exploitation, reverse engineering, forensics etc.
+- Challenges cover various domains eg cryptography, reverse engineering, forensics etc.
 
 Link: https://github.com/neonwuchang/Flags-de-Triomphe
   
