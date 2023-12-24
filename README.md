@@ -15,7 +15,7 @@ Link: https://github.com/neonwuchang/Flags-de-Triomphe
 
 Link: https://github.com/neonwuchang/my_chibi_portscanner
 
-## Simulated Incidents - Reports Archive
+## (Simulated) Security Incidents - Reports Archive
 - Project contains incident reports based on three separate security incident simulations
 - Scenarios and data used sourced from the Google Cybersecurity Professional Certificate
 - Scope of each report reflects its specific simulated background scenario.
