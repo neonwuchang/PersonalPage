@@ -33,7 +33,8 @@ Link: https://github.com/neonwuchang/SimSecIncident__Reports_Archive
 - Code is private
 
 ## Mandarin Practice Tool for Beginners
-- MVP: Simple website to practice Mandarin for beginners
+- Website: https://neonwuchang.github.io/PracticeMandarin/
+- Minimum Viable Product:: Simple website to practice Mandarin (for beginners) 
 - Flippable flashcards to learn and recognise characters
 - A new random Chinese character (with meaning) appears on homepage each time it is loaded
 - Practice Quizzes
