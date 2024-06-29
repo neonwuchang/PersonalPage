@@ -1,4 +1,4 @@
-# Personal Project Intro Page
+# Personal Projects Index Page
 Guide to current projects and repos:
 
 
