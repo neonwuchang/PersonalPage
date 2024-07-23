@@ -2,6 +2,13 @@
 Guide to current projects and repos:
 
 
+## The Red Diary Project
+- This is an Ongoing Project
+- Creating informative yet engaging articles on topics related to cybersecurity, Linux
+- Published on Medium.com
+
+Link: https://medium.com/@jkaur122
+
 ## Capture the Flag Challenge Collection
 - This is an ongoing project
 - Documenting the process of capturing flags from various challenges
